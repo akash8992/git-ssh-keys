@@ -1,4 +1,3 @@
-I apologize for the confusion! Here’s the entire content formatted in Groovy, so you can copy and paste it directly, with command sections properly included in the text.
 
 ```groovy
 # Create a Keypair on Your Local Machine for Git
@@ -94,5 +93,3 @@ You should see a success message confirming that the authentication was successf
 
 Congratulations! You've successfully created an SSH key pair on your local machine and added it to your Git account. This will allow you to securely connect to your remote repositories without needing to enter your username and password each time.
 ```
-
-You can copy and paste this entire content directly into your blog post. Let me know if you need any further adjustments!
